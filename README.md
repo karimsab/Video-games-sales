@@ -13,4 +13,4 @@ One can see here a sample of the video games sales dataset :
 
 First of all, we can display a quick view of this very useful tool that is _ProfileReport_ from __pandas_profiling__. Indeed, it displays an interactive table which sums up an exploratory data analysis (EDA) quite complete : 
 
-![Mar-20-2023 14-27-17](https://user-images.githubusercontent.com/62601686/226354156-26080857-7298-4c00-9885-21f38e42eef8.gif)
+![Mar-20-2023 14-40-11](https://user-images.githubusercontent.com/62601686/226357253-c3b27db3-c96d-41e1-8338-97fd349c5c5d.gif)
