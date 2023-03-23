@@ -29,7 +29,6 @@ Due to the fact that before the 2000s, internet wasn't much common, and video ga
 
 The distribution of video game genres by platform can be seen below :
 
-
-![genre](https://user-images.githubusercontent.com/62601686/227238680-6714b723-aba8-482c-9559-4fba67961828.png)
+![genre](https://user-images.githubusercontent.com/62601686/227252615-e3e6b482-bd61-41f7-8f21-2b065c305dcd.png)
 
 _Comment_: We displayed video games genre for the 4 most common platform, PS2 (Sony), DS (Portable console - Nintendo), Wii (Nintendo) and Xbox 360 (Microsoft). 
