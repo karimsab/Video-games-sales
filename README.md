@@ -26,3 +26,10 @@ There are some variables with many _null_ values. We can understand why :
 ![criticcounts_count](https://user-images.githubusercontent.com/62601686/226370067-2a70bc12-98a5-4427-8200-16437ed3510b.png)
 
 Due to the fact that before the 2000s, internet wasn't much common, and video games wasn't as popular as nowadays, articles on video games were fewer than today. So let's see the next graphs before 2017 only (there are no values from 2017 until now).
+
+The distribution of video game genres by platform can be seen below :
+
+
+![genre](https://user-images.githubusercontent.com/62601686/227238680-6714b723-aba8-482c-9559-4fba67961828.png)
+
+_Comment_: We displayed video games genre for the 4 most common platform, PS2 (Sony), DS (Portable console - Nintendo), Wii (Nintendo) and Xbox 360 (Microsoft). 
