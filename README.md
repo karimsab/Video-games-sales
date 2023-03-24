@@ -32,3 +32,9 @@ The distribution of video game genres by platform can be seen below :
 ![genre](https://user-images.githubusercontent.com/62601686/227252615-e3e6b482-bd61-41f7-8f21-2b065c305dcd.png)
 
 _Comments_ : We displayed video games genre for the 4 most common platform, PS2 (Sony), DS (Portable console - Nintendo), Wii (Nintendo) and Xbox 360 (Microsoft). As we can see, _sport_ and _action_ genre are predominant on PS2 and X360 platform. Nintendo platforms are dominated by the genre miscellaneous. The action genre is part of the 3 most popular genre for Nintendo platforms.
+
+Also, we can display the evolution of game releases by platform over the years.
+
+![game_released_plat](https://user-images.githubusercontent.com/62601686/227637439-b8331cd9-754e-41d9-b64e-aca73212de57.gif)
+
+It is interesting to see all the peaks for each console that represent the _golden age_ of that console. However, PC games releases keeps a relatively increasing trend.
