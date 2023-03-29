@@ -38,3 +38,5 @@ Also, we can display the evolution of game releases by platform over the years.
 ![game_released_plat](https://user-images.githubusercontent.com/62601686/227637439-b8331cd9-754e-41d9-b64e-aca73212de57.gif)
 
 It is interesting to see all the pikes for each console that represent the _golden age_ of that console. However, PC games releases keeps a relatively increasing trend.
+
+Another
