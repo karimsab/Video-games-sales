@@ -39,4 +39,11 @@ Also, we can display the evolution of game releases by platform over the years.
 
 It is interesting to see all the pikes for each console that represent the _golden age_ of that console. However, PC games releases keeps a relatively increasing trend.
 
-Another
+>>
+
+
+Another logical chart, is the evolution of sales, by world region, from 1985 to 2016 :
+
+![evolution_sales](https://user-images.githubusercontent.com/62601686/228664902-1747f6fd-a8d1-45b6-92d5-8aa5323d4322.png)
+
+As we can see, there is a significant increase up to 2008, after that date, the sales are decreasing (the data set does not appear to be of good quality). The biggest market is the Northen America, then the Europe, and the remaining regions share the rest of the cake.
