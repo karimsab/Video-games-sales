@@ -45,9 +45,14 @@ Another logical chart, is the evolution of sales, by world region, from 1985 to 
 
 ![evolution_sales](https://user-images.githubusercontent.com/62601686/228664902-1747f6fd-a8d1-45b6-92d5-8aa5323d4322.png)
 
-As we can see, there is a significant increase up to 2008, after that date, the sales are decreasing (the data set does not appear to be of good quality). The biggest market is the Northen America, then the Europe, and Japan sells an equivalent amount than the rest of the world.
+> As we can see, there is a significant increase up to 2008, after that date, the sales are decreasing (the data set does not appear to be of 
+> good quality). The biggest market is the Northen America, then the Europe, and Japan sells an equivalent amount than the rest of the world.
 
 
-Below a graph showing the 21 publishers with the most games sold :
+Below a graph showing publishers with the most games sold :
 
 ![sales_platform](https://user-images.githubusercontent.com/62601686/230470872-f2cf74e7-e462-4562-8261-3aafe80557db.png)
+
+> Nintendo is the publisher with the most game release for all regions.
+
+
