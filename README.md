@@ -15,7 +15,7 @@ First of all, we can display a quick view of this very useful tool that is _Prof
 
 ![Mar-20-2023 14-40-11](https://user-images.githubusercontent.com/62601686/226357253-c3b27db3-c96d-41e1-8338-97fd349c5c5d.gif)
 
-We can see an overview of the dataset, details on variables, correlations, etc. But we are capable of doing it with coding and this is what we are going to do.
+> We can see an overview of the dataset, details on variables, correlations, etc. But we are capable of doing it with coding and this is what we are going to do.
 
 We display the dataset's info : 
 
@@ -25,7 +25,7 @@ There are some variables with many _null_ values. We can understand why :
 
 ![criticcounts_count](https://user-images.githubusercontent.com/62601686/226370067-2a70bc12-98a5-4427-8200-16437ed3510b.png)
 
-Due to the fact that before the 2000s, internet wasn't much common, and video games wasn't as popular as nowadays, articles on video games were fewer than today. So let's see the next graphs before 2017 only (there are no values from 2017 until now).
+> Due to the fact that before the 2000s, internet wasn't much common, and video games wasn't as popular as nowadays, articles on video games were fewer than today. So let's see the next graphs before 2017 only (there are no values from 2017 until now).
 
 The distribution of video game genres by platform can be seen below :
 
@@ -55,4 +55,8 @@ Below a graph showing publishers with the most games sold :
 
 > Nintendo is the publisher with the most game release for all regions.
 
+### Correlation
 
+![corr](https://user-images.githubusercontent.com/62601686/230630202-f7d913b1-6aef-4109-98ef-65b0a3c98756.png)
+
+> This is a heatmap of the correlation of numerical variables.
