@@ -51,7 +51,7 @@ Another logical chart, is the evolution of sales, by world region, from 1985 to 
 
 Below a graph showing publishers with the most games sold :
 
-![sales_platform](https://user-images.githubusercontent.com/62601686/230470872-f2cf74e7-e462-4562-8261-3aafe80557db.png)
+![sales_pub](https://github.com/karimsab/Video-games-sales/assets/62601686/6c62ac12-17cf-4124-96a8-fb610f40ca8e)
 
 > Nintendo is the publisher with the most game release for all regions.
 
@@ -59,4 +59,6 @@ Below a graph showing publishers with the most games sold :
 
 ![corr](https://user-images.githubusercontent.com/62601686/230630202-f7d913b1-6aef-4109-98ef-65b0a3c98756.png)
 
-> This is a heatmap of the correlation of numerical variables.
+> This is a heatmap of the correlation of numerical variables where one can see the correlation between variables.
+
+
