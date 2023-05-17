@@ -55,6 +55,14 @@ Below a graph showing publishers with the most games sold :
 
 > Nintendo is the publisher with the most game release for all regions.
 
+
+Also below, the sales distribution by genre and by region :
+
+![sales_genre](https://github.com/karimsab/Video-games-sales/assets/62601686/b422f74e-6148-4f0f-8e84-9a614d6f3d7e)
+
+> North America has the biggest sales for action genre followed by European sales. In North America, in terms of sales, it comes sports and shooter video game genres.
+>
+
 ### Correlation
 
 ![corr](https://user-images.githubusercontent.com/62601686/230630202-f7d913b1-6aef-4109-98ef-65b0a3c98756.png)
