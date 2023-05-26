@@ -74,22 +74,15 @@ Also below, the sales distribution by genre and by region :
 
 ### Data preparation
 
-> In this section, we are going to make some simple predictions regression type. Before that, we will delete some variables (region's sales) to avoid overfitting. Then we need to encode categorical variables into numerical ones, because predicting models only include numbers.
+> In this section, we are going to make some simple predictions regression type. Before that, we will delete some variables (region's sales) to avoid overfitting. Then we need to encode categorical variables into numerical ones, because most of predicting models require numerical inputs.
 
-Int64Index: 15944 entries, 0 to 16717
-Data columns (total 12 columns):
- #   Column        Non-Null Count  Dtype  
----  ------        --------------  -----  
- 0   Name          15942 non-null  object 
- 1   Platform      15944 non-null  object 
- 2   Year          15944 non-null  float64
- 3   Genre         15942 non-null  object 
- 4   Publisher     15914 non-null  object 
- 5   Global_Sales  15944 non-null  float64
- 6   Critic_Score  7751 non-null   float64
- 7   Critic_Count  7751 non-null   float64
- 8   User_Score    9543 non-null   object 
- 9   User_Count    7201 non-null   float64
- 10  Developer     9594 non-null   object 
- 11  Rating        9488 non-null   object 
-dtypes: float64(5), object(7)
+![Capture d’écran 2023-05-26 à 12 38 55](https://github.com/karimsab/Video-games-sales/assets/62601686/b037cc52-1035-45dc-abe7-82446e6e1a2c)
+
+The dataset is split into target (_Global_Sales_) and data (dataset minus target). A next step is to encode each categorical variable into numerical labels. After that, we will have only numerical features that allow us to implement machine learning algorithms. 
+
+
+After spliting the data in a train set and a test set, we use a _Linear Regression_ to perform the prediction.
+
+![Capture d’écran 2023-05-26 à 16 06 49](https://github.com/karimsab/Video-games-sales/assets/62601686/07f003b8-e803-4f1a-a9a6-f488eaef2e15)
+
+We used R2 score, mean absolute error (MAE) and mean squared error (MSE) as metrics to calculate the precision of the model.
