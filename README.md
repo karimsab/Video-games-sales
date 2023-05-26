@@ -70,9 +70,10 @@ Also below, the sales distribution by genre and by region :
 > This is a heatmap of the correlation of numerical variables where one can see the correlation between variables.
 
 
-# Sales prediction (machine learning)
 
-## Data preparation
+## Sales prediction 
+
+### Data preparation
 
 > In this section, we are going to make some simple predictions regression type. Before that, we will delete some variables (region's sales) to avoid overfitting. Then we need to encode categorical variables into numerical ones, because most of predicting models require numerical inputs.
 
