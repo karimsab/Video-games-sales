@@ -86,4 +86,6 @@ After spliting the data in a train set and a test set, we use a _Linear Regressi
 
 ![Capture d’écran 2023-05-26 à 16 06 49](https://github.com/karimsab/Video-games-sales/assets/62601686/07f003b8-e803-4f1a-a9a6-f488eaef2e15)
 
-We used R2 score, mean absolute error (MAE) and mean squared error (MSE) as metrics to calculate the precision of the model.
+Metrics we use for calculate the precision of the model :
+
+__MAE__ : Mean Absolute Error, defined by $ MAE = {1\over n sum_{i=1}^n |x-x_{i}} $
