@@ -88,4 +88,4 @@ After spliting the data in a train set and a test set, we use a _Linear Regressi
 
 Metrics we use for calculate the precision of the model :
 
-__MAE__ : Mean Absolute Error, defined by $MAE = {\frac{1}{n} sum_{i=1}^n |x-x_{i}|}$
+__MAE__ : Mean Absolute Error, defined by $MAE = {\frac{1}{n} \sum_{i=1}^n |x-x_{i}|}$
