@@ -88,4 +88,8 @@ After spliting the data in a train set and a test set, we use a _Linear Regressi
 
 Metrics we use for calculate the precision of the model :
 
-__MAE__ : Mean Absolute Error, defined by $MAE = {\frac{1}{n} \displaystyle\sum_{i=1}^{n} |x-x_{i}|}$
+__MAE__ : The Mean Absolute Error is the average of all absolute errors, defined by $MAE = {\frac{1}{n} \displaystyle\sum_{i=1}^{n} |x-x_{i}|}$
+
+![mae](https://github.com/karimsab/Video-games-sales/assets/62601686/9c64b8eb-c28e-4293-88b7-b7f4642068de)
+
+
