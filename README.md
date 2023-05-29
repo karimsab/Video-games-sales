@@ -92,5 +92,5 @@ __MAE__ : The Mean Absolute Error is the average of all absolute errors, defined
 
 ![mae](https://github.com/karimsab/Video-games-sales/assets/62601686/a913ca1e-8ec2-4a28-b5e8-3c3717cbc3e9)
 
-
+__MSE__ : Mean Squarred Error, is given by $MSE = {\frac{\displaystyle\sum_{i=1}^{n} (y_{i} - \hat y_{i}}{n}}$
 
