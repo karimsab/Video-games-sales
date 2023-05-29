@@ -92,5 +92,6 @@ __MAE__ : The Mean Absolute Error is the average of all absolute errors, defined
 
 ![mae](https://github.com/karimsab/Video-games-sales/assets/62601686/a913ca1e-8ec2-4a28-b5e8-3c3717cbc3e9)
 
-__MSE__ : Mean Squarred Error, is given by $MSE = {\frac{\displaystyle\sum_{i=1}^{n} (y_{i} - \hat y_{i}}{n}}$
+__MSE__ : The Mean Squarred Error, is given by $MSE = {\frac{1}{n} \displaystyle\sum_{i=1}^{n} (y_{i} - \hat y_{i})}$. It mesures the average squared difference between the observed and predicted values. Is has the advantage of being less impact by outliers. Also we could have used the RMSE that is the root of MSE. The benefits is having an easy interpretable result since it is in the unit of the predicted data.
 
+__R^2__ : The R^2 score
