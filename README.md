@@ -82,7 +82,7 @@ Also below, the sales distribution by genre and by region :
 The dataset is split into target (_Global_Sales_) and data (dataset minus target). A next step is to encode each categorical variable into numerical labels. After that, we will have only numerical features that allow us to implement machine learning algorithms. 
 
 
-After spliting the data in a train set and a test set, we use a _Linear Regression_ to perform the prediction.
+After spliting the data in a train set and a test set, we use a _Linear Regression_ to perform the predictions.
 
 ![Capture d’écran 2023-05-26 à 16 06 49](https://github.com/karimsab/Video-games-sales/assets/62601686/07f003b8-e803-4f1a-a9a6-f488eaef2e15)
 
@@ -94,4 +94,4 @@ __MAE__ : The Mean Absolute Error is the average of all absolute errors, defined
 
 __MSE__ : The Mean Squarred Error, is given by $MSE = {\frac{1}{n} \displaystyle\sum_{i=1}^{n} (y_{i} - \hat y_{i})}$, where $y_{i}$ is the observed values and $\hat y_{i}$ the predicted values. It mesures the average squared difference between the observed and predicted values. Is has the advantage of being less impact by outliers. Also we could have used the RMSE that is the root of MSE. The benefits is having an easy interpretable result since it is in the unit of the predicted data.
 
-__R^2__ : The R^2 score formula : $$R^{2} = 1 - \frac{\displaystyle\sum_{i=1}^{n}(y_{i} - \hat y_{i})^{2}}{\displaystyle\sum_{i=1}^{n}(y_{i} - \bar y)^{2}}$$, where $\bar y$ is the average of observed values. $R^{2}$ score tells us wether the model is performant of not. Close to 0, the model is as performant as a model wich only predict the mean of the values to predict. Close to 1 the model is quite accurate.
+__R^2__ : The R^2 score formula : $$R^{2} = 1 - \frac{\displaystyle\sum_{i=1}^{n}(y_{i} - \hat y_{i})^{2}}{\displaystyle\sum_{i=1}^{n}(y_{i} - \bar y)^{2}}$$, where $\bar y$ is the average of observed values. $R^{2}$ score tells us wether the model is performant of not compared to a simple one. Close to 0, the model is as performant as a model wich only predict the mean of the observed data. Close to 1 the model is quite accurate.
