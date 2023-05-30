@@ -88,10 +88,10 @@ After spliting the data in a train set and a test set, we use a _Linear Regressi
 
 Metrics we use for calculate the precision of the model :
 
-__MAE__ : The Mean Absolute Error is the average of all absolute errors, defined by $MAE = {\frac{1}{n} \displaystyle\sum_{i=1}^{n} |x-x_{i}|}$
+__MAE__ : The Mean Absolute Error is the average of all absolute errors, defined by $MAE = {\frac{1}{n} \displaystyle\sum_{i=1}^{n} |x-x_{i}|}$. The MAE is useful when we want to interpret directly the results as they have the same units than the values to predict.
 
 ![mae](https://github.com/karimsab/Video-games-sales/assets/62601686/fafe2a63-076e-43a1-98ef-ebbf3b967cae)
 
 __MSE__ : The Mean Squarred Error, is given by $MSE = {\frac{1}{n} \displaystyle\sum_{i=1}^{n} (y_{i} - \hat y_{i})}$, where $y_{i}$ is the observed values and $\hat y_{i}$ the predicted values. It mesures the average squared difference between the observed and predicted values. Is has the advantage of being less impact by outliers. Also we could have used the RMSE that is the root of MSE. The benefits is having an easy interpretable result since it is in the unit of the predicted data.
 
-__R^2__ : The R^2 score formula : $R^{2} = 1 - \frac{\displaystyle\sum_{i=1}^{n}(y_{i} - \hat y_{i})^{2}}{\displaystyle\sum_{i=1}^{n}(y_{i} - \bar y)^{2}}$, where $\bar y$ is the average of observed values.
+__R^2__ : The R^2 score formula : $$R^{2} = 1 - \frac{\displaystyle\sum_{i=1}^{n}(y_{i} - \hat y_{i})^{2}}{\displaystyle\sum_{i=1}^{n}(y_{i} - \bar y)^{2}}$$, where $\bar y$ is the average of observed values. $R^{2}$ score tells us wether the model is performant of not. Close to 0, the model is as performant as a model wich only predict the mean of the values to predict. Close to 1 the model is quite accurate.
